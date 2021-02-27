@@ -1,0 +1,14 @@
+.grid-class
+{
+    display: grid;
+    grid-template-columns: repeat(9, 0fr);
+    grid-template-rows: repeat(9);
+}
+.grid-item
+ {
+  border: 1px solid black;
+  height:40px;
+  width: 40px;
+  background-color: #E0E0E0;
+  
+}
